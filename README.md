@@ -1,6 +1,11 @@
-# NOTICE!!
+## A WIP Fork of the abdandoned quuinnn/NixOS-Configs.
 
-updating my NixOS system resulted in kernel panic, and reverting to an older snapshot did nothing. I don't feel like tinkering around with NixOS anymore so I've switched to Arch Linux Rolling (again) so this project aint being maintend no more
+I have been serching multiple forums on installing and enabling the dGPU on my Thinkad T460p, this repo was a great help to get some things in order and I now have a fully working NixOS T460p with the dGPU!
+
+Many of the documents in this fork are in need of updating and I am only using KDE Plasma 6 (Wayland) on NixOS currently.
+
+I intend on trying out other environments especially Hyperland, I once attempted to use it a couple of years ago, but gave up! (there was too much Yak shaving to be done!).
+
 
 ## NixOS-Configs
 
