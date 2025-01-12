@@ -38,8 +38,9 @@
     };
   };
 
+  # CANT GET PRIME-RUN TO WORK ** NEEDS SOME ATTENTION (OFFLOAD WORKS!)
   # Add prime-run package
-  environment.systemPackages = with pkgs; [
-    pkgs.prime-run
-  ];
+  # environment.systemPackages = with pkgs; [
+  #   pkgs.prime-run
+  # ];
 }
